@@ -2,4 +2,5 @@ _ReSharper.*/
 bin/
 obj/
 nupkg/
+publish/
 .vscode
