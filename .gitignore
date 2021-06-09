@@ -3,6 +3,5 @@ bin/
 obj/
 nupkg/
 publish/
-publish.zip/
-publish1.zip/
+publish.zip
 .vscode
